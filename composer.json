@@ -1,5 +1,5 @@
 {
-  "name": "leantony/laravel-grid",
+  "name": "hthang369/laravel-grid",
   "description": "A grid view for laravel, inspired by the yii2 grid widget",
   "license": "MIT",
   "type": "library",
@@ -12,13 +12,15 @@
     "grid",
     "laravel-5",
     "laravel5",
-    "laravel6"
+    "laravel6",
+    "laravel7",
+    "laravel8"
   ],
-  "homepage": "https://github.com/leantony/laravel-grid",
+  "homepage": "https://github.com/hthang369/laravel-grid",
   "authors": [
     {
       "name": "Antony [leantony] Chacha",
-      "email": "chachaantony@gmail.com",
+      "email": "thangtran3690@gmail.com",
       "role": "Developer"
     }
   ],
